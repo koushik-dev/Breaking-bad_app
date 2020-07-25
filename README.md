@@ -1,5 +1,7 @@
 # breaking-bad
 
+A vue app to display breaking bad characters
+
 ## Project setup
 ```
 npm install
